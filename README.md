@@ -1,4 +1,4 @@
-need database mysql library.sql, kafka, and java 21
+need database mysql ist_library.sql, kafka, and java 21
 
 how to install
 1. git clone the code
